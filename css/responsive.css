@@ -3,26 +3,23 @@
     header nav,
     footer {
         width: 100%;
-        padding: 0 15px;
+        padding: 0 20px;
     }
 
-    header .logo,
+    header,
     nav ul,
-    nav ul li,
     footer {
         text-align: center;
     }
 
     nav ul {
+        padding: 0;
         flex-direction: column;
     }
 
     nav ul li {
+        display: block;
         margin: 10px 0;
-    }
-
-    footer {
-        position: static;
     }
 
     .welcome,
@@ -31,28 +28,29 @@
     .portfolio,
     .blog,
     .contact {
-        padding: 30px 15px;
-    }
-
-    .portfolio-item,
-    .blog-post {
-        margin-bottom: 20px;
+        padding: 20px;
     }
 }
 
 @media screen and (max-width: 480px) {
-    header nav ul li,
+    header .logo {
+        width: 40px; /* Slightly smaller logo for mobile */
+    }
+
+    header nav ul li a {
+        font-size: 1em; /* Smaller font size for nav links */
+    }
+
     .welcome h1,
     .about h1,
     .resume h1,
     .portfolio h1,
-    .blog-post h2 {
-        font-size: 1.2em;
+    .blog h1 {
+        font-size: 1.5em; /* Larger font size for headings */
     }
 
-    .contact input[type="text"],
-    .contact input[type="email"],
-    .contact textarea {
-        font-size: 0.9em;
+    .contact,
+    .contact p {
+        font-size: 0.9em; /* Adjust font size for contact information */
     }
 }
