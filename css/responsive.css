@@ -1,26 +1,58 @@
-
 @media screen and (max-width: 768px) {
-    header nav ul {
+    .container,
+    header nav,
+    footer {
+        width: 100%;
+        padding: 0 15px;
+    }
+
+    header .logo,
+    nav ul,
+    nav ul li,
+    footer {
+        text-align: center;
+    }
+
+    nav ul {
         flex-direction: column;
-        margin-top: 10px;
     }
 
-    header nav ul li {
-        margin: 5px 0;
-    }
-
-    .container {
-        width: 95%;
+    nav ul li {
+        margin: 10px 0;
     }
 
     footer {
         position: static;
     }
+
+    .welcome,
+    .about,
+    .resume,
+    .portfolio,
+    .blog,
+    .contact {
+        padding: 30px 15px;
+    }
+
+    .portfolio-item,
+    .blog-post {
+        margin-bottom: 20px;
+    }
 }
 
 @media screen and (max-width: 480px) {
-    header nav ul li {
-        display: block;
-        margin: 10px 0;
+    header nav ul li,
+    .welcome h1,
+    .about h1,
+    .resume h1,
+    .portfolio h1,
+    .blog-post h2 {
+        font-size: 1.2em;
+    }
+
+    .contact input[type="text"],
+    .contact input[type="email"],
+    .contact textarea {
+        font-size: 0.9em;
     }
 }
