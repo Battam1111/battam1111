@@ -1,16 +1,24 @@
-## Hi there 👋
+### Hi there, I'm Yanjun Chen (陈彦筠) 👋
 
-<!--
-**Battam1111/battam1111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an INTJ 🧠 and a PhD student at **Hong Kong Polytechnic University** 🎓, specializing in **Reinforcement Learning with Human Feedback (RLHF)** and **EMBODYAI** 🤖.
 
-Here are some ideas to get you started:
+#### About Me
+- 🌍 **From**: China 🇨🇳, currently living in **Hong Kong** 🇭🇰
+- 🎯 **MBTI**: INTJ (The Architect), always seeking knowledge and optimization.
+- 🏫 **Education**: PhD student at **Hong Kong Polytechnic University**  
+- 📚 **Research Interests**: Reinforcement Learning, AI Embodiment, Human-AI Interaction
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Skills & Tools
+- **Programming Languages**: Python 🐍, C/C++ ⚙️
+- **Spoken Languages**: Chinese 🇨🇳, English 🇬🇧, Japanese 🇯🇵
+- **Favourite Fields**: Computer Science, Artificial Intelligence, Mathematics
+
+#### Hobbies & Interests
+- 🏓 Playing table tennis
+- 🎮 Video games
+- 🎤 KTV enthusiast
+- 📖 Learning new things, especially science and tech topics
+
+#### Contact Me
+- 📧 **Email**: [yan-jun.chen@connect.polyu.hk](mailto:yan-jun.chen@connect.polyu.hk)
+- 💬 **WeChat**: xzqm13143609845
