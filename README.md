@@ -6,7 +6,7 @@ I am an INTJ 🧠 and a PhD student at **Hong Kong Polytechnic University** 🎓
 - 🌍 **From**: China 🇨🇳, currently living in **Hong Kong** 🇭🇰
 - 🎯 **MBTI**: INTJ (The Architect), always seeking knowledge and optimization.
 - 🏫 **Education**: PhD student at **Hong Kong Polytechnic University**  
-- 📚 **Research Interests**: Reinforcement Learning, AI Embodiment, Human-AI Interaction
+- 📚 **Research Interests**: Reinforcement Learning, AI Embodiment
 
 #### Skills & Tools
 - **Programming Languages**: Python 🐍, C/C++ ⚙️
