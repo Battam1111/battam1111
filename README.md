@@ -1,6 +1,6 @@
 ### Hi there, I'm Yanjun Chen (陈彦筠) 👋
 
-I am an INTJ 🧠 and a PhD student at **Hong Kong Polytechnic University** 🎓, specializing in **Reinforcement Learning with Human Feedback (RLHF)** and **EMBODYAI** 🤖.
+I am an INTJ 🧠 and a PhD student at **Hong Kong Polytechnic University & EIT** 🎓, specializing in **Reinforcement Learning with Human Feedback (RLHF)** and **EMBODYAI** 🤖.
 
 #### About Me
 - 🌍 **From**: China 🇨🇳, currently living in **Hong Kong** 🇭🇰
