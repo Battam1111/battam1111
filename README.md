@@ -1,7 +1,7 @@
 <!-- README.md (GitHub Profile) -->
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/75498408?v=4" width="120" style="border-radius: 50%;" />
+<!--   <img src="https://avatars.githubusercontent.com/u/75498408?v=4" width="120" style="border-radius: 50%;" /> -->
   <h1 align="center">Hi there, I'm <span style="color:#a855f7;">Yanjun Chen (陈彦筠)</span> 👋</h1>
   <p align="center">
     🧠 <strong>INTJ thinker</strong> | 🤖 <strong>RLHF & Embodied AI researcher</strong> <br/>
