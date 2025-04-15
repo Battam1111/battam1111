@@ -25,7 +25,7 @@
 ## 🧬 About Me
 
 - 🇨🇳 From China, currently living in 🇭🇰 Hong Kong
-- 🏫 PhD candidate at **HK PolyU**, collaborating with **EIT**
+- 🏫 PhD student at **HK PolyU**, collaborating with **EIT**
 - 🔬 Focused on **Reinforcement Learning with Human Feedback (RLHF)** and **Embodied AI**
 
 ---
