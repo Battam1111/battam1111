@@ -1,76 +1,42 @@
-<!-- README.md (GitHub Profile) -->
+# Yanjun Chen
 
-<div align="center">
-<!--   <img src="https://avatars.githubusercontent.com/u/75498408?v=4" width="120" style="border-radius: 50%;" /> -->
-  <h1 align="center">Hi there, I'm <span style="color:#a855f7;">Yanjun Chen (陈彦筠)</span> 👋</h1>
-  <p align="center">
-    🧠 <strong>INTJ</strong> | 🤖 <strong>RLHF & Embodied AI researcher</strong> <br/>
-    🎓 PhD @ Hong Kong Polytechnic University & EIT | 🇭🇰 Based in Hong Kong
-  </p>
-  <p align="center">
-    <a href="https://battam1111.github.io" target="_blank">
-      <img alt="Website" src="https://img.shields.io/badge/Visit-Personal%20Site-blue?style=flat-square&logo=githubpages" />
-    </a>
-    <a href="https://github.com/Battam1111" target="_blank">
-      <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Battam1111-black?style=flat-square&logo=github" />
-    </a>
-    <a href="mailto:yan-jun.chen@connect.polyu.hk">
-      <img alt="Email" src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail" />
-    </a>
-  </p>
-</div>
+PhD student in the Department of Computing at The Hong Kong Polytechnic University.
 
----
+My research focuses on reinforcement learning with human feedback, reward modeling, reasoning in large language models, and embodied AI. I am interested in building learning-based agents that are more reliable, adaptive, and practically useful.
 
-## 🧬 About Me
+## About
 
-- 🇨🇳 From China, currently living in 🇭🇰 Hong Kong
-- 🏫 PhD student at **HK PolyU**, collaborating with **EIT**
-- 🔬 Focused on **Reinforcement Learning with Human Feedback (RLHF)** and **Embodied AI**
+I use this GitHub profile as a concise index to my research code, publications, and academic homepage.
 
----
+For a fuller academic profile, including publications, scholarly metrics, writing, and contact information, please visit my personal website:
 
-## 🧠 Personality & Values
+- [Academic homepage](https://battam1111.github.io)
 
-- 🧭 **MBTI**: INTJ — *Strategic Architect*
-- 📐 I thrive on clarity, structure, and deep reasoning
-- 💡 Always seeking elegance over brute-force
+## Research Interests
 
----
+- Reinforcement learning with human feedback
+- Reward modeling and feedback-driven learning
+- Reasoning in large language models
+- Embodied AI and learning-based agents
 
-## 🛠️ Skills & Tools
+## Selected Links
 
-| Programming | Languages | AI Fields |
-|-------------|-----------|-----------|
-| Python 🐍, C/C++ ⚙️ | Chinese 🇨🇳, English 🇬🇧, Japanese 🇯🇵 | RL, RLHF, Embodied AI, LLMs |
+- [Google Scholar](https://scholar.google.com/citations?user=Zg8cX0sAAAAJ&hl=en)
+- [Academic homepage](https://battam1111.github.io)
+- [Email](mailto:yan-jun.chen@connect.polyu.hk)
 
----
+## Selected Repositories
 
-## 💼 Projects / Research
+- [C3](https://github.com/Battam1111/C3)
+  Contextual Counterfactual Credit Assignment for multi-agent reinforcement learning in LLM collaboration.
 
-You can find my full list of publications, research overviews, and blog posts here:
+- [AccuracyParadox-RLHF](https://github.com/Battam1111/AccuracyParadox-RLHF)
+  Research code for studying when stronger reward models do not necessarily yield better RLHF outcomes.
 
-🔗 **Personal Site** → [https://battam1111.github.io](https://battam1111.github.io)
+- [battam1111.github.io](https://github.com/Battam1111/battam1111.github.io)
+  Source code for my academic homepage and writing.
 
----
+## Contact
 
-## ✨ Fun Facts
-
-- 🏓 Table tennis player
-- 🎮 Gamer at heart
-- 🎤 KTV Enthusiast
-- 🔍 Perpetual learner (especially in science & philosophy)
-
----
-
-## 📬 Contact Me
-
-- 📧 **Email**: [yan-jun.chen@connect.polyu.hk](mailto:yan-jun.chen@connect.polyu.hk)
-- 💬 **WeChat**: xzqm13143609845
-- 🧠 **Google Scholar**: [My Publications](https://scholar.google.com.hk/citations?user=Zg8cX0sAAAAJ)
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6b21a8&height=120&section=footer"/>
-</div>
+- Email: [yan-jun.chen@connect.polyu.hk](mailto:yan-jun.chen@connect.polyu.hk)
+- Location: Hong Kong
