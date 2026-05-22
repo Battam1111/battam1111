@@ -36,6 +36,30 @@ For a fuller academic profile, including publications, scholarly metrics, writin
 - [battam1111.github.io](https://github.com/Battam1111/battam1111.github.io)
   Source code for my academic homepage and writing.
 
+
+
+---
+
+## Building
+
+Beyond research, I run a 24/7 automated stack on a Mac mini. It scans 11 ZK + AI bounty ecosystems, writes publication-quality tutorials, and ships them through Polar.sh as paid products.
+
+### Live products
+
+- **[Midnight ZK Cookbook](https://battam1111.github.io/midnight-zk-cookbook/)** — 11 ZK tutorials spanning Midnight, Aleo, and Noir, with companion code repos.
+- **[zk-pipeline-doctor](https://github.com/Battam1111/zk-pipeline-doctor)** — OSS CLI that diagnoses ZK circuit projects for common health issues. MIT-licensed.
+- **[Bounty Radar Pro](https://battam1111.github.io/bounty-radar-data/)** — real-time bounty intelligence feed across 11 ZK + AI ecosystems. Free public tier; paid $19–$497/mo Polar subscriptions.
+
+### Browse the system
+
+All auto-revenue repos are tagged `zk-cookbook`. To see only those:
+
+→ [github.com/Battam1111?tab=repositories&q=topic%3Azk-cookbook](https://github.com/Battam1111?tab=repositories&q=topic%3Azk-cookbook)
+
+Sub-topics:
+- [`zk-cookbook-product`](https://github.com/Battam1111?tab=repositories&q=topic%3Azk-cookbook-product) — 4 main products
+- [`zk-cookbook-tutorial`](https://github.com/Battam1111?tab=repositories&q=topic%3Azk-cookbook-tutorial) — 8 tutorial companion repos
+
 ## Contact
 
 - Email: [yan-jun.chen@connect.polyu.hk](mailto:yan-jun.chen@connect.polyu.hk)
