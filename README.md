@@ -42,13 +42,13 @@ For a fuller academic profile, including publications, scholarly metrics, writin
 
 ## Building
 
-Beyond research, I run a 24/7 automated stack on a Mac mini. It scans 11 ZK + AI bounty ecosystems, writes publication-quality tutorials, and ships them through Polar.sh as paid products.
+Beyond research, I maintain a small set of open-source tools for the zero-knowledge developer ecosystem.
 
 ### Live products
 
-- **[Midnight ZK Cookbook](https://battam1111.github.io/midnight-zk-cookbook/)** — 11 ZK tutorials spanning Midnight, Aleo, and Noir, with companion code repos.
+- **[zk-pipeline-doctor](https://github.com/Battam1111/zk-pipeline-doctor)** — multi-language ZK project health audit CLI (MIT).
 - **[zk-pipeline-doctor](https://github.com/Battam1111/zk-pipeline-doctor)** — OSS CLI that diagnoses ZK circuit projects for common health issues. MIT-licensed.
-- **[Bounty Radar Pro](https://battam1111.github.io/bounty-radar-data/)** — real-time bounty intelligence feed across 11 ZK + AI ecosystems. Free public tier; paid $19–$497/mo Polar subscriptions.
+- **[bounty-radar-data](https://battam1111.github.io/bounty-radar-data/)** — live ZK bounty feed (data-only, auto-refreshed). Free public access.
 
 ### Browse the system
 
