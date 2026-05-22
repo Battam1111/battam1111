@@ -1,5 +1,24 @@
 # Yanjun Chen
 
+
+## What I make
+
+**Open-source ZK tooling** — all MIT-licensed, all working:
+- [**zk-pipeline-doctor**](https://github.com/Battam1111/zk-pipeline-doctor) — multi-ecosystem ZK project audit CLI (8 detectors across Compact / Leo / Noir / Cairo / SP1 / Plonky3 / Stwo / Solidity-verifier)
+- [**zk-doctor-action**](https://github.com/Battam1111/zk-doctor-action) — GitHub Marketplace Action wrapping the CLI with diff-aware PR comments
+- [**bounty-radar-data**](https://battam1111.github.io/bounty-radar-data/) — live ZK bounty feed across 11 ecosystems (free public API + RSS + per-ecosystem sub-feeds)
+- [**bounty-radar-mcp**](https://github.com/Battam1111/bounty-radar-mcp) — MCP server exposing the feed to Claude / Cursor / Windsurf
+
+**Paid offerings** ([pricing](https://battam1111.github.io/midnight-zk-cookbook/pricing.html)) via [Polar.sh](https://polar.sh) (Merchant of Record, 14-day money-back):
+- $15 [ZK Cookbook Bundle](https://polar.sh/checkout/polar_c_6CqAq70gZIe8bmUOyrKMYQkLSYXS7t9aY3yxy4TFovi) — 17 tutorials across 5 ecosystems, offline-readable
+- $29 [Bounty Hunter Playbook](https://polar.sh/checkout/polar_c_rtEpLig3NXQmT8aLSh0esDlQEy43HK8wWrjS44VZaIC) — 50-page strategy PDF
+- $99 [Pre-Flight Audit](https://polar.sh/checkout/polar_c_gXO0FivhPZEULEbuWnpznkLPFdL2Koz68AvG93YoWFb) — automated + narrated ZK project audit, 24h turnaround
+- $19–497/mo [Bounty Radar](https://polar.sh/checkout/polar_c_BbZbN6eJnZ7rwsUfT1pMsj4lTftwnfMoGdWBo0KozKU) — real-time ZK bounty alerts to Telegram / webhook / Slack
+
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/Battam1111?style=for-the-badge)](https://github.com/sponsors/Battam1111)
+
+---
+
 PhD student in the Department of Computing at The Hong Kong Polytechnic University.
 
 My research focuses on reinforcement learning with human feedback, reward modeling, reasoning in large language models, and embodied AI. I am interested in building learning-based agents that are more reliable, adaptive, and practically useful.
