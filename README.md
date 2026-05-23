@@ -3,17 +3,17 @@
 
 ## What I make
 
-**Open-source ZK tooling** — all MIT-licensed, all working:
-- [**zk-pipeline-doctor**](https://github.com/Battam1111/zk-pipeline-doctor) — multi-ecosystem ZK project audit CLI (8 detectors across Compact / Leo / Noir / Cairo / SP1 / Plonky3 / Stwo / Solidity-verifier)
-- [**zk-doctor-action**](https://github.com/Battam1111/zk-doctor-action) — GitHub Marketplace Action wrapping the CLI with diff-aware PR comments
-- [**bounty-radar-data**](https://battam1111.github.io/bounty-radar-data/) — live ZK bounty feed across 11 ecosystems (free public API + RSS + per-ecosystem sub-feeds)
-- [**bounty-radar-mcp**](https://github.com/Battam1111/bounty-radar-mcp) — MCP server exposing the feed to Claude / Cursor / Windsurf
+**Open-source ZK tooling**: all MIT-licensed, all working:
+- [**zk-pipeline-doctor**](https://github.com/Battam1111/zk-pipeline-doctor); multi-ecosystem ZK project audit CLI (8 detectors across Compact / Leo / Noir / Cairo / SP1 / Plonky3 / Stwo / Solidity-verifier)
+- [**zk-doctor-action**](https://github.com/Battam1111/zk-doctor-action); GitHub Marketplace Action wrapping the CLI with diff-aware PR comments
+- [**bounty-radar-data**](https://battam1111.github.io/bounty-radar-data/); live ZK bounty feed across 11 ecosystems (free public API + RSS + per-ecosystem sub-feeds)
+- [**bounty-radar-mcp**](https://github.com/Battam1111/bounty-radar-mcp); MCP server exposing the feed to Claude / Cursor / Windsurf
 
 **Paid offerings** ([pricing](https://battam1111.github.io/midnight-zk-cookbook/pricing.html)) via [Polar.sh](https://polar.sh) (Merchant of Record, 14-day money-back):
-- $15 [ZK Cookbook Bundle](https://polar.sh/checkout/polar_c_6CqAq70gZIe8bmUOyrKMYQkLSYXS7t9aY3yxy4TFovi) — 17 tutorials across 5 ecosystems, offline-readable
-- $29 [Bounty Hunter Playbook](https://polar.sh/checkout/polar_c_rtEpLig3NXQmT8aLSh0esDlQEy43HK8wWrjS44VZaIC) — 50-page strategy PDF
-- $99 [Pre-Flight Audit](https://polar.sh/checkout/polar_c_gXO0FivhPZEULEbuWnpznkLPFdL2Koz68AvG93YoWFb) — automated + narrated ZK project audit, 24h turnaround
-- $19–497/mo [Bounty Radar](https://polar.sh/checkout/polar_c_BbZbN6eJnZ7rwsUfT1pMsj4lTftwnfMoGdWBo0KozKU) — real-time ZK bounty alerts to Telegram / webhook / Slack
+- $15 [ZK Cookbook Bundle](https://polar.sh/checkout/polar_c_6CqAq70gZIe8bmUOyrKMYQkLSYXS7t9aY3yxy4TFovi); 17 tutorials across 5 ecosystems, offline-readable
+- $29 [Bounty Hunter Playbook](https://polar.sh/checkout/polar_c_rtEpLig3NXQmT8aLSh0esDlQEy43HK8wWrjS44VZaIC); 50-page strategy PDF
+- $99 [Pre-Flight Audit](https://polar.sh/checkout/polar_c_gXO0FivhPZEULEbuWnpznkLPFdL2Koz68AvG93YoWFb); automated + narrated ZK project audit, 24h turnaround
+- $19–497/mo [Bounty Radar](https://polar.sh/checkout/polar_c_BbZbN6eJnZ7rwsUfT1pMsj4lTftwnfMoGdWBo0KozKU); real-time ZK bounty alerts to Telegram / webhook / Slack
 
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/Battam1111?style=for-the-badge)](https://github.com/sponsors/Battam1111)
 
@@ -65,9 +65,9 @@ Beyond research, I maintain a small set of open-source tools for the zero-knowle
 
 ### Live products
 
-- **[zk-pipeline-doctor](https://github.com/Battam1111/zk-pipeline-doctor)** — multi-language ZK project health audit CLI (MIT).
-- **[zk-pipeline-doctor](https://github.com/Battam1111/zk-pipeline-doctor)** — OSS CLI that diagnoses ZK circuit projects for common health issues. MIT-licensed.
-- **[bounty-radar-data](https://battam1111.github.io/bounty-radar-data/)** — live ZK bounty feed (data-only, auto-refreshed). Free public access.
+- **[zk-pipeline-doctor](https://github.com/Battam1111/zk-pipeline-doctor)**: multi-language ZK project health audit CLI (MIT).
+- **[zk-pipeline-doctor](https://github.com/Battam1111/zk-pipeline-doctor)**: OSS CLI that diagnoses ZK circuit projects for common health issues. MIT-licensed.
+- **[bounty-radar-data](https://battam1111.github.io/bounty-radar-data/)**: live ZK bounty feed (data-only, auto-refreshed). Free public access.
 
 ### Browse the system
 
@@ -76,8 +76,8 @@ All auto-revenue repos are tagged `zk-cookbook`. To see only those:
 → [github.com/Battam1111?tab=repositories&q=topic%3Azk-cookbook](https://github.com/Battam1111?tab=repositories&q=topic%3Azk-cookbook)
 
 Sub-topics:
-- [`zk-cookbook-product`](https://github.com/Battam1111?tab=repositories&q=topic%3Azk-cookbook-product) — 4 main products
-- [`zk-cookbook-tutorial`](https://github.com/Battam1111?tab=repositories&q=topic%3Azk-cookbook-tutorial) — 8 tutorial companion repos
+- [`zk-cookbook-product`](https://github.com/Battam1111?tab=repositories&q=topic%3Azk-cookbook-product); 4 main products
+- [`zk-cookbook-tutorial`](https://github.com/Battam1111?tab=repositories&q=topic%3Azk-cookbook-tutorial); 8 tutorial companion repos
 
 ## Contact
 
