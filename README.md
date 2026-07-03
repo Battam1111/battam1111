@@ -1,18 +1,18 @@
 # Yanjun Chen
 
-Second-year PhD student in the Department of Computing at The Hong Kong Polytechnic University, advised by Prof. Wenjie Li (Maggie) and Prof. Wei Zhang.
+PhD candidate in the Department of Computing at The Hong Kong Polytechnic University, advised by Prof. Wenjie Li (Maggie) and Prof. Wei Zhang.
 
-I work on **Environment-Centric AI**: treating the training environment of intelligent agents as a designed object. The environment is not a given, it has pieces (reward, feedback, observation, evaluation), and those pieces can be analyzed and re-designed.
+A learner is trained inside an apparatus of helpers: a **reward model** that scores it, **verifiers** that check it, a **curriculum** that feeds it. The learner is the one model that ships; the helpers stay behind, and their own scores do not tell you what they did to it. My work makes these helpers accountable: their effect on the learner measured from inside training rather than assumed, and their contribution counted by what the learner can still do once they are withdrawn.
 
 More at **[battam1111.github.io](https://battam1111.github.io)**.
 
 ## Selected work
 
 - **[Exact Is Easier: Credit Assignment for Cooperative LLM Agents](https://github.com/Battam1111/C3)** *(in submission, arXiv:2603.06859)*
-  Cooperative LLM histories are deterministic, so per-agent counterfactual credit is exactly computable. Delivers a learning algorithm that outperforms every approximate multi-agent RL alternative, plus the first method-agnostic auditing tool for credit quality.
+  One shared outcome hides each decision's share. The transcript makes every decision replayable, so per-decision credit is measured exactly instead of estimated: a learning algorithm that outperforms every approximate multi-agent RL alternative, plus a method-agnostic audit of credit quality.
 
 - **[The Accuracy Paradox in RLHF](https://github.com/Battam1111/AccuracyParadox-RLHF)** *(EMNLP 2024)*
-  Moderate reward models train better language models than highly accurate ones on relevance, factuality, and completeness. Reward-model accuracy as an environment design property.
+  A reward model's benchmark accuracy fails to predict the policy it trains: varying only accuracy yields an interior optimum, with the real signal in the training dynamics.
 
 - **[battam1111.github.io](https://github.com/Battam1111/battam1111.github.io)**
   Source for my [homepage](https://battam1111.github.io). al-folio + custom SCSS, trilingual EN/中/日.
