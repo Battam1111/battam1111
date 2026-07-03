@@ -2,7 +2,7 @@
 
 PhD candidate in the Department of Computing at The Hong Kong Polytechnic University, advised by Prof. Wenjie Li (Maggie) and Prof. Wei Zhang.
 
-A model is trained by other models now: a **reward model** scores it, **verifiers** check it, a **curriculum** decides what it sees. I measure what each of them actually contributes, and whether the model keeps it once they are gone.
+I want to make the training environment **trainable**, the way models are, and with it to lift the ceiling of what AI can become. Today it is not: environments are assembled from **reward models**, **verifiers**, and **curricula** that nobody can properly measure. My work builds that measurement first.
 
 More at **[battam1111.github.io](https://battam1111.github.io)**.
 
