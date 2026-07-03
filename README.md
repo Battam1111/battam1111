@@ -2,7 +2,7 @@
 
 PhD candidate in the Department of Computing at The Hong Kong Polytechnic University, advised by Prof. Wenjie Li (Maggie) and Prof. Wei Zhang.
 
-Training surrounds a model with helpers: **reward models**, **verifiers**, **curricula**, shaping aids. I measure what each helper actually contributes, from inside training, and count only what the model keeps once the helpers are withdrawn.
+A model is trained by other models now: a **reward model** scores it, **verifiers** check it, a **curriculum** decides what it sees. I measure what each of them actually contributes, and whether the model keeps it once they are gone.
 
 More at **[battam1111.github.io](https://battam1111.github.io)**.
 
