@@ -2,7 +2,7 @@
 
 PhD candidate in the Department of Computing at The Hong Kong Polytechnic University, advised by Prof. Wenjie Li (Maggie) and Prof. Wei Zhang.
 
-A learner is trained inside an apparatus of helpers: a **reward model** that scores it, **verifiers** that check it, a **curriculum** that feeds it. The learner is the one model that ships; the helpers stay behind, and their own scores do not tell you what they did to it. My work makes these helpers accountable: their effect on the learner measured from inside training rather than assumed, and their contribution counted by what the learner can still do once they are withdrawn.
+Training surrounds a model with helpers: **reward models**, **verifiers**, **curricula**, shaping aids. I measure what each helper actually contributes, from inside training, and count only what the model keeps once the helpers are withdrawn.
 
 More at **[battam1111.github.io](https://battam1111.github.io)**.
 
