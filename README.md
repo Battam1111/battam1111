@@ -2,7 +2,7 @@
 
 PhD candidate in the Department of Computing at The Hong Kong Polytechnic University, advised by Prof. Wenjie Li (Maggie) and Prof. Wei Zhang.
 
-I want to make the training environment **trainable**, the way models are, and with it to lift the ceiling of what AI can become. Today it is not: environments are assembled from **reward models**, **verifiers**, and **curricula** that nobody can properly measure. My work builds that measurement first.
+I want to make the environment **trainable**, the way models are, and with it to lift the ceiling of what AI can become. Today the environment is not even a single thing: a **reward model** here, a **verifier** there, a **curriculum** somewhere else, each built and judged on its own. My work begins with measurement: what does each piece actually contribute to the model it trains.
 
 More at **[battam1111.github.io](https://battam1111.github.io)**.
 
