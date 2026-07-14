@@ -1,6 +1,6 @@
 # Yanjun Chen
 
-PhD candidate in the Department of Computing at The Hong Kong Polytechnic University, advised by Prof. Wenjie Li (Maggie) and Prof. Wei Zhang.
+PhD candidate in the Department of Computing at The Hong Kong Polytechnic University, advised by Prof. Wenjie Li (Maggie) and Prof. Wei Zhang, with joint doctoral training at the Eastern Institute of Technology (EIT), Ningbo.
 
 I want to make the environment **trainable**, the way models are, and with it to lift the ceiling of what AI can become. Today the environment is not even a single thing: a **reward model** here, a **verifier** there, a **curriculum** somewhere else, each built and judged on its own. My work begins with measurement: what does each piece actually contribute to the model it trains.
 
