@@ -1,7 +1,7 @@
 <h1 align="center">Yanjun Chen</h1>
 
 <p align="center">
-PhD candidate at The Hong Kong Polytechnic University (joint training with EIT, Ningbo), working on reinforcement learning for large language models and embodied agents. I measure what each piece of the environment a model trains in, from reward to data, actually contributes to the model, toward making the environment trainable, the way models are.
+PhD candidate at The Hong Kong Polytechnic University (joint training with EIT, Ningbo), working on reinforcement learning for large language models and embodied agents. Models are trainable; the environments that train them are not. I want to make the environment trainable, the way models are.
 </p>
 
 <p align="center">
