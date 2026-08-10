@@ -15,5 +15,5 @@ Hong Kong
 ## What I build
 
 - **[C3](https://github.com/EIT-EAST-Lab/C3)**: exact per-decision credit for cooperative LLM agents by transcript replay, with a method-agnostic audit of credit quality. [[paper](https://arxiv.org/abs/2603.06859)]
-- **[AccuracyParadox-RLHF](https://github.com/Battam1111/AccuracyParadox-RLHF)**: reproducible RLHF training and evaluation pipelines and reference reward models. [[paper, EMNLP 2024](https://arxiv.org/abs/2410.06554)]
+- **[AccuracyParadox-RLHF](https://github.com/EIT-NLP/AccuracyParadox-RLHF)**: reproducible RLHF training and evaluation pipelines and reference reward models. [[paper, EMNLP 2024](https://arxiv.org/abs/2410.06554)]
 - **[Myco](https://github.com/Battam1111/Myco)** (independent project): persistent memory and knowledge management infrastructure for AI agents in the MCP ecosystem, written in Rust.
