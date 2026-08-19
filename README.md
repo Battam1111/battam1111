@@ -10,7 +10,7 @@
 
 Hi 👋, I'm Yanjun. Second-year PhD at Hong Kong PolyU, joint with EIT Ningbo.
 
-In reinforcement learning, models are trainable. The environments that train them are not.  
+In reinforcement learning, models are **trainable**. The environments that train them are **not**.  
 I'm working on closing that gap.
 
 ### What I'm Building
