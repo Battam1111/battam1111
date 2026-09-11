@@ -8,7 +8,10 @@
 <a href="https://orcid.org/0009-0001-9065-9137">ORCID</a>
 </p>
 
-Hi 👋, I'm Yanjun. Second-year PhD at Hong Kong PolyU, joint with EIT Ningbo.
+<!-- Year marker: PhD started Sept 2024, so bump the ordinal every September.
+     This is the only surface that carries a year; the homepage, CV and og-card
+     all say "PhD candidate", which never goes stale. -->
+Hi 👋, I'm Yanjun. Third-year PhD at Hong Kong PolyU, joint with EIT Ningbo.
 
 In reinforcement learning, models are **trainable**. The environments that train them are **not**.  
 I'm working on closing that gap.
