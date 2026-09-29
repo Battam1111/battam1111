@@ -9,9 +9,10 @@
 </p>
 
 <!-- Year marker: PhD started Sept 2024, so bump the ordinal every September.
-     This is the only surface that carries a year; the homepage, CV and og-card
-     all say "PhD candidate", which never goes stale. -->
-Hi 👋, I'm Yanjun. Third-year PhD at Hong Kong PolyU, joint with EIT Ningbo.
+     This is the only surface that carries a year count.
+     Internship marker: drop the "Currently a research intern" sentence when the
+     MSRA internship ends, and switch the homepage location back to Hong Kong. -->
+Hi 👋, I'm Yanjun. Third-year PhD candidate at Hong Kong PolyU, joint with EIT Ningbo. Currently a research intern at Microsoft Research Asia, Singapore.
 
 In reinforcement learning, models are **trainable**. The environments that train them are **not**.  
 I'm working on closing that gap.
