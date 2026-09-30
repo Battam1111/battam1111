@@ -19,7 +19,7 @@ I'm working on closing that gap.
 
 ### What I'm Building
 
-[**C3**](https://github.com/EIT-EAST-Lab/C3) measures exact credit in cooperative LLM agents. [**Accuracy Paradox**](https://github.com/EIT-NLP/AccuracyParadox-RLHF) *(EMNLP 2024)* shows that a better reward model does not always train a better policy.
+[**C3**](https://github.com/EIT-EAST-Lab/C3) assigns exact credit in LLM agent teams: when the trace is the state, each message's worth comes from actually continuing the run, not from a prediction. [**Accuracy Paradox**](https://github.com/EIT-NLP/AccuracyParadox-RLHF) *(EMNLP 2024)* shows that the most accurate reward model is not the one that trains best: moderately accurate ones train better language models.
 
 On the side: [**OmniSeek**](https://github.com/Battam1111/omniseek), a self-hosted deep-retrieval engine for AI agents, and [**Myco**](https://github.com/Battam1111/Myco), persistent memory infrastructure. Both in the MCP ecosystem.
 
