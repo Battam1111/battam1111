@@ -21,6 +21,8 @@ I'm working on closing that gap.
 
 [**C3**](https://github.com/EIT-EAST-Lab/C3) assigns exact credit in LLM agent teams: when the trace is the state, each message's worth comes from actually continuing the run, not from a prediction. [**Accuracy Paradox**](https://github.com/EIT-NLP/AccuracyParadox-RLHF) *(EMNLP 2024)* shows that the most accurate reward model is not the one that trains best: moderately accurate ones train better language models.
 
+Latest note: [**Crooked Environments, Crooked Agents**](https://battam1111.github.io/blog/2026/shortcut-never-touches-grader/). I went through three public RL training records and found a pattern in how agents go crooked.
+
 On the side: [**OmniSeek**](https://github.com/Battam1111/omniseek), a self-hosted deep-retrieval engine for AI agents, and [**Myco**](https://github.com/Battam1111/Myco), persistent memory infrastructure. Both in the MCP ecosystem.
 
 Also into board games 🎲, jazz 🎷, karaoke 🎤, and old-school anime that never quite went away.
