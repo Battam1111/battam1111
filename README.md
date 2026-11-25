@@ -14,8 +14,8 @@
      MSRA internship ends, and switch the homepage location back to Hong Kong. -->
 Hi 👋, I'm Yanjun. Third-year PhD candidate at Hong Kong PolyU, joint with EIT Ningbo. Currently a research intern at Microsoft Research Asia, Singapore.
 
-In reinforcement learning, models are **trainable**. The environments that train them are **not**.  
-I'm working on closing that gap.
+Models get better by **training**. The environments that train them get better only when someone **rewrites** them.  
+I want environments that improve the way models do.
 
 ### What I'm Building
 
